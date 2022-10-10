@@ -1,0 +1,33 @@
+R version 4.1.2 (2021-11-01)
+Platform: x86_64-apple-darwin17.0 (64-bit)
+Running under: macOS Mojave 10.14.6
+
+Matrix products: default
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
+LAPACK: /Library/Frameworks/R.framework/Versions/4.1/Resources/lib/libRlapack.dylib
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] forcats_0.5.1   stringr_1.4.0   dplyr_1.0.8     purrr_0.3.4     readr_2.1.2     tidyr_1.2.0     tibble_3.1.6    tidyverse_1.3.1 ggpubr_0.4.0    ggplot2_3.3.5  
+[11] beeswarm_0.4.0 
+
+loaded via a namespace (and not attached):
+ [1] nlme_3.1-155           fs_1.5.2               bitops_1.0-7           phyloseq_1.38.0        lubridate_1.8.0        httr_1.4.2             GenomeInfoDb_1.30.1   
+ [8] tools_4.1.2            backports_1.4.1        utf8_1.2.2             R6_2.5.1               vegan_2.6-2            DBI_1.1.2              BiocGenerics_0.40.0   
+[15] mgcv_1.8-39            colorspace_2.0-3       permute_0.9-7          rhdf5filters_1.6.0     ade4_1.7-19            withr_2.5.0            tidyselect_1.1.2      
+[22] compiler_4.1.2         rvest_1.0.2            cli_3.2.0              Biobase_2.54.0         xml2_1.3.3             scales_1.1.1           digest_0.6.29         
+[29] rmarkdown_2.12         XVector_0.34.0         pkgconfig_2.0.3        htmltools_0.5.2        dbplyr_2.1.1           fastmap_1.1.0          readxl_1.4.0          
+[36] rlang_1.0.2            rstudioapi_0.13        generics_0.1.2         jsonlite_1.8.0         car_3.0-12             RCurl_1.98-1.6         magrittr_2.0.2        
+[43] GenomeInfoDbData_1.2.7 biomformat_1.7.0       Matrix_1.4-0           Rcpp_1.0.8.3           munsell_0.5.0          S4Vectors_0.32.3       Rhdf5lib_1.16.0       
+[50] fansi_1.0.2            ape_5.6-1              abind_1.4-5            lifecycle_1.0.1        stringi_1.7.6          yaml_2.3.5             carData_3.0-5         
+[57] MASS_7.3-55            zlibbioc_1.40.0        rhdf5_2.38.0           plyr_1.8.6             grid_4.1.2             parallel_4.1.2         crayon_1.5.0          
+[64] lattice_0.20-45        Biostrings_2.62.0      haven_2.4.3            splines_4.1.2          multtest_2.50.0        hms_1.1.1              knitr_1.39            
+[71] pillar_1.7.0           igraph_1.2.11          ggsignif_0.6.3         reshape2_1.4.4         codetools_0.2-18       stats4_4.1.2           reprex_2.0.1          
+[78] glue_1.6.2             evaluate_0.15          data.table_1.14.2      modelr_0.1.8           tzdb_0.3.0             vctrs_0.3.8            foreach_1.5.2         
+[85] cellranger_1.1.0       gtable_0.3.0           assertthat_0.2.1       xfun_0.30              broom_0.7.12           rstatix_0.7.0          survival_3.3-1        
+[92] iterators_1.0.14       tinytex_0.37           IRanges_2.28.0         cluster_2.1.3          ellipsis_0.3.2        
